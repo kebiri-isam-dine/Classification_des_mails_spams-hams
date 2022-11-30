@@ -81,4 +81,4 @@ source du Dataset :
 
 🌐 My Portfolio: <https://kebiri-isam-dine.github.io/>
 
-🔗 Project Link: [https://github.com/Kebiri-isam-dine/UniversityProjects](https://github.com/Kebiri-isam-dine/Classification_des_mails_spams-hams)
+🔗 Project Link: [https://github.com/Kebiri-isam-dine/Classification_des_mails_spams-hams](https://github.com/Kebiri-isam-dine/Classification_des_mails_spams-hams)
