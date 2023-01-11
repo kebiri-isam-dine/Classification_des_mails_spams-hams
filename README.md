@@ -32,7 +32,9 @@ Le but de ce projet est de réaliser une classification de documents, il consist
   - Feature Engineering : enrichir les données avec de nouvelles variables ou transformer les variables excitantes
 - Construire des jeux de données pour l'entrainement et le test
   - Cross-Validation et méthode K-fold
+  - matrice de confusion
 - Entrainement et évaluation du modèle
+  - SVM
 - sélection du meilleur modèle
 
 #### Keywords
