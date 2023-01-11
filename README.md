@@ -29,13 +29,15 @@ Le but de ce projet est de réaliser une classification de documents, il consist
 - vectorisation (transformer le text en chiffres)
   - vectorisation contextuelle N grams
   - vectorisation tf-idf
+  - Feature Engineering : enrichir les données avec de nouvelles variables ou transformer les variables excitantes
 - Construire des jeux de données pour l'entrainement et le test
+  - Cross-Validation et méthode K-fold
 - Entrainement et évaluation du modèle
 - sélection du meilleur modèle
 
 #### Keywords
 
-Machin Learning, NLP, tokenizer, stemming, lemmatization, vectorisation, N_grams, tf-idf
+Machin Learning, NLP, tokenizer, stemming, lemmatization, vectorisation, N_grams, tf-idf, Feature Engineering, Cross-Validation, k-fold, 
 
 #### Built With
 
