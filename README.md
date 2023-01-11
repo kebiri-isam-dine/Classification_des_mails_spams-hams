@@ -23,16 +23,19 @@ Le but de ce projet est de réaliser une classification de documents, il consist
 - Récolte des données
 - Nettoyage et préparation des données
   - Supprimer la ponctuation
+  - tokenizer les données
   - Elimination des stop words (mots sans valeurs sémantiquement)
-  - Réduction de la taille du document en réduissant le nombre de type de mot présent dans le doc (stemming ou lemmatization)
-- Vectorisation (transformer le text en chiffres)
+  - réduction de la taille du document en réduissant le nombre de type de mot présent dans le doc (stemming ou lemmatization)
+- vectorisation (transformer le text en chiffres)
+  - vectorisation contextuelle N grams
+  - vectorisation tf-idf
 - Construire des jeux de données pour l'entrainement et le test
 - Entrainement et évaluation du modèle
 - sélection du meilleur modèle
 
 #### Keywords
 
-Machin Learning, NLP, 
+Machin Learning, NLP, tokenizer, stemming, lemmatization, vectorisation, N_grams, tf-idf
 
 #### Built With
 
