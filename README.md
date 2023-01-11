@@ -39,7 +39,7 @@ Le but de ce projet est de réaliser une classification de documents, il consist
 
 #### Keywords
 
-Machin Learning, NLP, tokenizer, stemming, lemmatization, vectorisation, N_grams, tf-idf, Feature Engineering, Cross-Validation, k-fold, 
+Machin Learning, NLP, tokenizer, stemming, lemmatization, vectorisation, N_grams, tf-idf, Feature Engineering, Cross-Validation, k-fold, SVM,
 
 #### Built With
 
