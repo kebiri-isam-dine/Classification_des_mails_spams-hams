@@ -15,6 +15,7 @@
 
 
 ![GitHub dev_language](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=white)
+![GitHub dev_language](https://img.shields.io/badge/python-6aa84f?style=for-the-badge&logo=pandas&logoColor=white)
 ![GitHub dev_language](https://img.shields.io/badge/nltk-blue?style=for-the-badge&logo=solidity&logoColor=white)
 ![GitHub dev_language](https://img.shields.io/badge/Pandas-6aa84f?style=for-the-badge&logo=pandas&logoColor=white)
 ![GitHub dev_language](https://img.shields.io/badge/scikit--learn-orange?style=for-the-badge&logo=scikit-learn&logoColor=white)
