@@ -33,8 +33,11 @@ Le but de ce projet est de réaliser une classification de documents, il consist
 - Construire des jeux de données pour l'entrainement et le test
   - Cross-Validation et méthode K-fold
   - matrice de confusion
-- Entrainement et évaluation du modèle
+- Modèles
   - SVM
+  - SVM_CrossValidation
+- Évaluation des modèles
+  - Métriques de performance : precision, recall et accuracy.
 - sélection du meilleur modèle
 
 #### Keywords
@@ -75,7 +78,14 @@ source du Dataset :
 
 
 ## Result
-
+Métriques de performance utilisé : precision, recall et accuracy.    
+- Résultats pour le [model SVM](SVM_model.ipynb)
+  - precision = 0.966, recall = 0.929, accuracy = 0.986
+- Résultat pour le [model SVM_CrossValidation](SVM_model.ipynb)
+  - accuracy pour chaque batch = [0.97774587 0.9856425  0.9798995  0.98420675]
+  - accuracy totale = 0.9818736539842067
+- Résultat pour le [model SVM_TF-IDF](SVM_model.ipynb)
+  - precision = 0.993, recall = 0.905, accuracy = 0.987
 
 
 ## License
